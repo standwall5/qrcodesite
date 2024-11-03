@@ -26,8 +26,8 @@ You'll also find the intended look of the site in [Desktop](./design/desktop-des
 
 ### Screenshots
 <p align=center>
-![Desktop](./final/desktop-final.png) 
-![Mobile](./final/mobile-final.png)
+<img src="https://github.com/standwall5/qrcodesite/blob/main/final/desktop-final.png" width="715px">
+<img src="https://github.com/standwall5/qrcodesite/blob/main/final/mobile-final.png" width="200px">
 </p>
 ### Links
 
