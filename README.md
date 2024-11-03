@@ -5,6 +5,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
+  - [Information](#information)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -13,6 +14,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Credits](#credits)
 
 ## Overview
+
+## Information
 
 This is a challenge present on [Frontend Mentor](https://www.frontendmentor.io) which is about recreating a QR code display on a site.
 
@@ -27,7 +30,7 @@ You'll also find the intended look of the site in [Desktop](./preview.jpg) and [
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://standwall5.github.io/qrcodesite)
+- Live site URL: [Live site](https://standwall5.github.io/qrcodesite)
 
 ## My process
 
