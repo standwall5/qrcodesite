@@ -25,13 +25,10 @@ You may access the challenge here:
 You'll also find the intended look of the site in [Desktop](./design/desktop-design.jpg) and [Mobile](./design/mobile-design.jpg) and the [stylings](./style-guide.md) provided by Frontend Mentor.
 
 ### Screenshots
-
-Desktop
-![](./final/desktop-final.png) 
-
-Mobile
-![](./final/mobile-final.png)
-
+<p align=center>
+![Desktop](./final/desktop-final.png =) 
+![Mobile](./final/mobile-final.png)
+</p>
 ### Links
 
 - Live site URL: [Live site](https://standwall5.github.io/qrcodesite)
