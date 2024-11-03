@@ -29,6 +29,7 @@ You'll also find the intended look of the site in [Desktop](./design/desktop-des
 <img src="https://github.com/standwall5/qrcodesite/blob/main/final/desktop-final.png" width="715px">
 <img src="https://github.com/standwall5/qrcodesite/blob/main/final/mobile-final.png" width="200px">
 </p>
+
 ### Links
 
 - Live site URL: [Live site](https://standwall5.github.io/qrcodesite)
