@@ -22,11 +22,15 @@ This is a challenge present on [Frontend Mentor](https://www.frontendmentor.io) 
 You may access the challenge here:
 - Challenge URL: [QR Code component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 
-You'll also find the intended look of the site in [Desktop](./preview.jpg) and [Desktop](./design/desktop-design.jpg) [Mobile](./design/mobile-design.jpg) and the stylings [Style guide](./style-guide.md) provided by Frontend Mentor.
+You'll also find the intended look of the site in [Desktop](./design/desktop-design.jpg) and [Mobile](./design/mobile-design.jpg) and the [stylings](./style-guide.md) provided by Frontend Mentor.
 
 ### Screenshots
 
-![](./final/desktop-final.png) [](./final/mobile-final.png)
+Desktop
+![](./final/desktop-final.png) 
+
+Mobile
+![](./final/mobile-final.png)
 
 ### Links
 
