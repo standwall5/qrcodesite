@@ -26,7 +26,7 @@ You'll also find the intended look of the site in [Desktop](./design/desktop-des
 
 ### Screenshots
 <p align=center>
-![Desktop](./final/desktop-final.png =) 
+![Desktop](./final/desktop-final.png) 
 ![Mobile](./final/mobile-final.png)
 </p>
 ### Links
